@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Tema2_POO.dir/main.cpp.o CMakeFiles/Tema2_POO.dir/Vector.cpp.o CMakeFiles/Tema2_POO.dir/Nr_Natural_Mare.cpp.o  -o Tema2_POO 
